@@ -1,0 +1,23 @@
+.card-container{
+    margin:50px 50px;
+    /* left:50%; */
+    /* display: block; */
+    width: 100%;
+    /* position: absolute; */
+    display:flex;
+    justify-content: center;
+}
+
+.img-card{
+    margin-bottom: 20px;
+}
+
+.card-button{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.button{
+    width:100%;
+}
